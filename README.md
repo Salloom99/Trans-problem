@@ -1,2 +1,3 @@
 # Trans-problem
- A basic solutoin for TSP 
+ A basic solution for TSP  
+ college project
